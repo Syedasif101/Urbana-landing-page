@@ -1,12 +1,12 @@
 # React + Vite
 
-# Steps to run 
-# Clone the repo
+## Steps to run 
+## Clone the repo
 
-## cd urbana-landing/
+ cd urbana-landing/
 
-## npm install
+ npm install
 
-## npm run dev
+ npm run dev
 
 
