@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+html,
+body {
+  width: 100%;
+  min-height: 100vh;
+  /* background: #faf8f3; */
+  margin: 0;
+  padding: 0;
+}
+
+
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+
